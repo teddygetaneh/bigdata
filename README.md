@@ -11,7 +11,7 @@ Python 3.x PostgreSQL Pandas Matplotlib / Seaborn (for visualizations) psycopg2 
 
 Clone the Repository:
 
-bash Copy Edit git clone https://github.com/abrham-tarekegn/ecommerce-data-pipeline.git cd ecommerce-data-pipeline Install Dependencies: Make sure you have the required Python libraries:
+bash Copy Edit git clone https://github.com/teddygetaneh/bigdata.git cd ecommerce-data-pipeline Install Dependencies: Make sure you have the required Python libraries:
 
 bash Copy Edit pip install -r requirements.txt Database Setup:
 
